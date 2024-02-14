@@ -1,6 +1,5 @@
 package parte1;
 
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class Ej5 {
@@ -18,6 +17,7 @@ public class Ej5 {
 		esarf=esarf(frase);
 		
 		System.out.println("Tu cadena al revés será "+esarf);
+		sc.close();
 	}
 	
 	//La función que se encargará de darle la vuelta al String 
