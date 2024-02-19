@@ -19,6 +19,7 @@ public class Ej13 {
 		System.out.println("Introduce la palabra");
 		palabra = sc.next().toLowerCase();
 
+		
 
 		// Pedimos el anagrama
 		System.out.println("Introduce el anagrama");
