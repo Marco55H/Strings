@@ -9,8 +9,6 @@ public class Ej14 {
 		Scanner sc = new Scanner(System.in);
 		// Frase que introduce el usuario
 		String frase;
-		// Contador letra
-		int cont = 0;
 		// Array de char que servirá para separar la frase en sus carácteres
 		char[] letras;
 		// Para ir contando las posiciones comparadas del array
@@ -46,5 +44,6 @@ public class Ej14 {
 		
 
 		}
+		sc.close();
 	}
 }

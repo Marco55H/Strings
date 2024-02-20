@@ -77,5 +77,6 @@ public class Ej16 {
 			System.out.println("Has acertado " + cont + " letras");
 		}
 		System.out.println("Acertaste");
+		sc.close();
 	}
 }

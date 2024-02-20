@@ -52,5 +52,6 @@ public class Ej15 {
 
 		}
 		System.out.println("Acertaste");
+		sc.close();
 	}
 }
